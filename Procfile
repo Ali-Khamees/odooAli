@@ -1,1 +1,1 @@
-web: odoo/odoo-bin -c odoo.conf
+web: ./odoo-bin -c odoo.conf --http-port=$PORT
