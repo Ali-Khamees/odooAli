@@ -1,2 +1,4 @@
 #!/bin/bash
-python3 odoo-bin -c odoo.conf
+pip install --upgrade pip
+pip install -r requirements.txt
+exec python odoo-bin
