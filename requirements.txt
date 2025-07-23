@@ -30,3 +30,4 @@ Werkzeug
 xlrd
 XlsxWriter
 xlwt
+lxml_html_clean
