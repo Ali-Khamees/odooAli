@@ -31,3 +31,4 @@ xlrd
 XlsxWriter
 xlwt
 lxml-html-clean==0.1.1
+zeep
